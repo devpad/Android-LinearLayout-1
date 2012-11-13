@@ -22,13 +22,13 @@ public class ActivityHorizontalJava extends Activity {
         ViewGroup.LayoutParams paramsButton = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
 
         Button btn1 = new Button(this);
-        btn1.setText("Кнопка 1");
+        btn1.setText("РљРЅРѕРїРєР° 1");
 
         Button btn2 = new Button(this);
-        btn2.setText("Кнопка 2");
+        btn2.setText("РљРЅРѕРїРєР° 2");
 
         Button btn3 = new Button(this);
-        btn3.setText("Кнопка 3");
+        btn3.setText("РљРЅРѕРїРєР° 3");
 
         linearLayout.addView(btn1, paramsButton);
         linearLayout.addView(btn2, paramsButton);

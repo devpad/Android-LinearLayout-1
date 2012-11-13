@@ -30,7 +30,7 @@ public class ActivityVertHorJava extends Activity {
                 ViewGroup.LayoutParams.WRAP_CONTENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT
         ));
-        contactName.setText("Аноним");
+        contactName.setText("РђРЅРѕРЅРёРј");
         contactName.setTextSize(20);
         contactName.setTypeface(null, Typeface.BOLD);
 
@@ -41,7 +41,7 @@ public class ActivityVertHorJava extends Activity {
         );
         paramMessage.weight = (float) 1.0;
         messageText.setLayoutParams(paramMessage);
-        messageText.setText("Пропущенных вызовов от абонента - 1, время 20:48 09/12");
+        messageText.setText("РџСЂРѕРїСѓС‰РµРЅРЅС‹С… РІС‹Р·РѕРІРѕРІ РѕС‚ Р°Р±РѕРЅРµРЅС‚Р° - 1, РІСЂРµРјСЏ 20:48 09/12");
         messageText.setTextSize(13);
         messageText.setMaxLines(2);
 
@@ -64,7 +64,7 @@ public class ActivityVertHorJava extends Activity {
                 ViewGroup.LayoutParams.FILL_PARENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT
         ));
-        btnDelete.setText("Удалить всё");
+        btnDelete.setText("РЈРґР°Р»РёС‚СЊ РІСЃС‘");
         btnDelete.setGravity(Gravity.CENTER);
 
         LinearLayout messagePanel = new LinearLayout(this);
