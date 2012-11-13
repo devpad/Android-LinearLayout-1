@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinearLayout1</string>
+    <string name="layout_vertical_xml">Компоновка VERTICAL вместе с XML</string>
+    <string name="layout_vertical_java">Компоновка VERTICAL вместе с JAVA</string>
+    <string name="layout_horizontal_xml">Компоновка HORIZONTAL вместе с XML</string>
+    <string name="layout_horizontal_java">Компоновка HORIZONTAL вместе с JAVA</string>
+    <string name="layout_verthor_xml">Компоновка с HORIZONTAL и VERTIVAL (XML)</string>
+    <string name="layout_verthor_java">Компоновка с HORIZONTAL и VERTIVAL (JAVA)</string>
+</resources>
